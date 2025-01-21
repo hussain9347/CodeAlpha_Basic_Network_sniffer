@@ -21,7 +21,7 @@ A basic network sniffer written in Python to capture and analyze network traffic
 1. Clone this repository:
    ```bash
    git clone (https://github.com/hussain9347/CodeAlpha_Basic_Network_sniffer.git)
-   cd NetworkSniffer
+   cd CodeAlpha_Basic_Network_sniffer
 
 2.python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
